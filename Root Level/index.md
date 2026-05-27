@@ -1,3 +1,6 @@
+---
+layout: home
+---
 # The Triad of Stewardship
 
 ## A Human-Native Alignment Architecture
