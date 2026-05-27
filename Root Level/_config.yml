@@ -65,7 +65,6 @@ kramdown:
 # -----------------------------------------------
 plugins:
   - jekyll-feed
-  - jekyll-seo-tag
 
 # -----------------------------------------------
 # Files and folders to exclude from the site build
