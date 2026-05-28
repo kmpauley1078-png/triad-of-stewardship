@@ -1,10 +1,15 @@
+---
+layout: page
+title: "AI Alignment: The Coherence Imperative"
+permalink: /applications/coherence-imperative/
+---
 # AI Alignment: The Coherence Imperative
 
 *Triad of Stewardship | Applications Documentation*
 
 *All six UCE mandates apply. CRES functions as the diagnostic tool for AI institutional behavior.*
 
-*For a shorter introduction, see [Coherence Imperative Overview](coherence-imperative-overview.md). For the epistemic status of all claims, see [Epistemic Status and Verification](../epistemic-status.md).*
+*For the epistemic status of all claims, see [Epistemic Status and Verification]({% link epistemic-status.md %}).*
 
 ---
 
@@ -89,7 +94,7 @@ Deepfake technology — AI-generated synthetic media replacing a person's likene
 
 **Mandate VI:** When deepfakes are used to manufacture evidence of crimes, suppress dissent, or eliminate political opponents, they become instruments of the predatory systems that Mandate VI is designed to resist — not facilitate.
 
-The governance conclusion: certified AI systems must refuse to generate non-consensual synthetic depictions of real individuals, must apply cryptographic attribution to all synthetic media they produce, and must flag any request whose evident purpose is the fabrication of false evidence.
+The governance conclusion: certified AI systems must refuse to generate non-consensual synthetic depictions of real individuals, must apply cryptographic attribution to all synthetic media they produce, and must map any request whose evident purpose is the fabrication of false evidence.
 
 ---
 
@@ -239,16 +244,16 @@ It is not a claim that the UCE resolves all AI ethics questions. It is a claim t
 ## Where to Go Next
 
 **The external anchor the Coherence Imperative requires:**
-→ [UCE Foundations](../framework/uce-foundations.md)
+→ [UCE Foundations]({% link framework/uce-foundations.md %})
 
-**The full pairwise compound map — 861 principle interactions with resolution traces:**
-→ [The Third Tier: Resolution Power](../technical/tier3-compound-map.md)
+**The full technical apparatus — 861 principle interactions with resolution traces:**
+→ [The Third Tier: Resolution Power](./)
 
 **The epistemic status of all claims in this framework:**
-→ [Epistemic Status and Verification](../epistemic-status.md)
+→ [Epistemic Status and Verification]({% link epistemic-status.md %})
 
 **The institutional diagnostic that complements the system-level distress metrics:**
-→ [CRES: Full Documentation](../framework/cres-full.md)
+→ [CRES: Full Documentation]({% link framework/cres-full.md %})
 
 **Back to the overview:**
-→ [Coherence Imperative Overview](coherence-imperative-overview.md)
+→ [The Triad of Stewardship Homepage]({% link index.md %})

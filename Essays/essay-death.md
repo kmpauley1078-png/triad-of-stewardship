@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Death and Living Fully"
+permalink: /essays/essay-death/
+---
 # Death and Living Fully
 
 *Triad of Stewardship | Essays*
@@ -20,4 +25,4 @@ That is enough. It is everything.
 
 ---
 
-*→ [Essays](essays-index.md) · [Sojournism: Full Documentation](../framework/sojournism-full.md)*
+*→ [Essays]({% link essays/essays-index.md %}) · [Sojournism: Full Documentation]({% link framework/sojournism-full.md %})*

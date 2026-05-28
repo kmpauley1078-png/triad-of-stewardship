@@ -1,8 +1,14 @@
+---
+layout: page
+title: "Sojournism: The Personal Philosophy"
+permalink: /framework/sojournism-full/
+---
+
 # Sojournism: The Personal Philosophy
 
 *Triad of Stewardship | Framework Documentation*
 
-*For a shorter introduction to Sojournism, see [Sojournism Overview](sojournism-overview.md).*
+*For a shorter introduction to Sojournism, see [Sojournism Overview]({% link framework/sojournism-overview.md %}).*
 
 ---
 
@@ -170,7 +176,7 @@ Humility is the pivot point in all of this. Not self-flagellation. Not the perfo
 
 ## Conflict and Accountability
 
-When someone harms you, or when you witness harm, Sojournism provides a specific escalation logic drawn directly from [UCE Mandate VI — Just Subversion](uce-foundations.md#mandate-vi--just-subversion).
+When someone harms you, or when you witness harm, Sojournism provides a specific escalation logic drawn directly from [UCE Mandate VI — Just Subversion]({% link framework/uce-foundations.md %}#mandate-vi--just-subversion).
 
 The first obligation is direct address: go to the person and name the harm plainly, without performance, without an audience, without the goal of winning — only with the goal of repair. This is the hardest step for most people, and the one most often skipped in favor of complaint to third parties or internal resentment.
 
@@ -221,13 +227,13 @@ You are, as we all are, a temporary resident. The question is not whether you wi
 ## Where to Go Next
 
 **The UCE mandates that Sojournism expresses at the individual level:**
-→ [UCE Foundations](uce-foundations.md)
+→ [UCE Foundations]({% link framework/uce-foundations.md %})
 
 **The institutional scale — what CRES measures when Character is present or absent:**
-→ [CRES: Full Documentation](cres-full.md)
+→ [CRES: Full Documentation]({% link framework/cres-full.md %})
 
 **The AI alignment application of Sojournism's account of human flourishing:**
-→ [The Coherence Imperative](../applications/coherence-imperative.md)
+→ [The Coherence Imperative](../applications/coherence-imperative/)
 
 **Back to the overview:**
-→ [Sojournism Overview](sojournism-overview.md)
+→ [Sojournism Overview]({% link framework/sojournism-overview.md %})

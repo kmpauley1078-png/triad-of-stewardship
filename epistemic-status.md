@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Epistemic Status and Verification"
+permalink: /epistemic-status/
+---
 # Epistemic Status and Verification
 
 ## What This Page Is For
@@ -12,7 +17,7 @@ The framework holds itself to the same standard it applies to everything else: n
 
 **Central claim:** Across twenty-three ethical traditions spanning five millennia and accounting for the ethical frameworks of more than ninety-eight percent of all human beings who have ever lived, the same six clusters of behavioral obligation appear — independently, without common origin, across traditions as different as ancient Egyptian ethics, Confucianism, Ubuntu, Kantian deontology, and pre-contact Anishinaabe oral tradition.
 
-**Derived claim:** Within those six clusters, forty-two principles can be stated with sufficient precision to generate distinct behavioral requirements when applied in combination. When all 861 pairwise interactions of those forty-two principles are evaluated, the framework produces clear resolution in 98.3% of cases, marks genuine uncertainty in the remaining 1.7%, and generates an auditable trace for every output.
+**Derived claim:** Within those six clusters, forty-two principles can be stated with sufficient precision to generate distinct behavioral requirements when applied in combination. When all 861 pairwise interactions of those forty-two principles are evaluated, the framework produces clear resolution in 98.3% of cases, marks genuine uncertainty in the remaining 1.7% and generates an auditable trace for every output.
 
 **Applied claim:** This structure is applicable to AI alignment. The framework does not merely describe what ethical behavior requires in the abstract — it generates specific outputs for specific inputs, marks its own uncertainty honestly, and produces reasoning that can be inspected at every step.
 
@@ -79,10 +84,10 @@ The framework is designed to function as an external anchor for ethical reasonin
 If you are using this framework as part of an alignment architecture, the correct posture is: apply where confidence is warranted, flag where it is not, and treat the void zones as the framework's honest accounting of where human ethical consensus does not yet exist — not as gaps to be filled by the system's own inference.
 
 **The full technical apparatus** — principle definitions, compound map, tension resolutions, void analysis, Priority Hierarchy, and formalization:
-→ [The Third Tier: Overview](technical/tier3-overview.md)
+→ [The Third Tier: Overview]({% link technical/tier3-overview.md %})
 
 **The foundational methodology and tradition mappings:**
-→ [UCE Foundations](framework/uce-foundations.md)
+→ [UCE Foundations]({% link framework/uce-foundations.md %})
 
 ---
 

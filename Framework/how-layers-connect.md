@@ -1,3 +1,9 @@
+---
+layout: page
+title: "How the Three Layers Connect"
+permalink: /framework/how-layers-connect/
+---
+
 # How the Three Layers Connect
 ## The Triad as One System
 
@@ -80,7 +86,7 @@ The concentric structure also clarifies where the Coherence Imperative sits. It 
 ## Where to Go Next
 
 **The AI alignment application — the Coherence Imperative in full:**
-→ [The Coherence Imperative](../applications/coherence-imperative.md)
+→ [The Coherence Imperative](../applications/coherence-imperative/)
 
 **The framework under conditions of collapse — what happens when CRES reaches its terminal state:**
 → [Grey Zone Ethics](../applications/grey-zone.md)
@@ -89,4 +95,4 @@ The concentric structure also clarifies where the Coherence Imperative sits. It 
 → [The Third Tier: Resolution Power](../technical/tier3-compound-map.md)
 
 **Back to the framework components:**
-→ [UCE Overview](uce-overview.md) · [Sojournism Overview](sojournism-overview.md) · [CRES Overview](cres-overview.md)
+→ [UCE Overview]({% link framework/uce-overview.md %}) · [Sojournism Overview]({% link framework/sojournism-overview.md %}) · [CRES Overview]({% link framework/cres-overview.md %})

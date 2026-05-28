@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Balance"
+permalink: /essays/essay-balance/
+---
 # Balance
 
 *Triad of Stewardship | Essays*
@@ -8,4 +13,4 @@ Practice balance today. Catch one absolute in your thoughts and soften it. Notic
 
 ---
 
-*→ [Essays](essays-index.md) · [Sojournism: Full Documentation](../framework/sojournism-full.md)*
+*→ [Essays]({% link essays/essays-index.md %}) · [Sojournism: Full Documentation]({% link framework/sojournism-full.md %})*

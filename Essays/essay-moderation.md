@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Moderation — How We Lost It"
+permalink: /essays/essay-moderation/
+---
 # Moderation — How We Lost It
 
 *Triad of Stewardship | Essays*
@@ -24,4 +29,4 @@ The UCE's Temperance principle (Mandate V, Principle 32) is not a lifestyle pref
 
 ---
 
-*→ [Essays](essays-index.md) · [UCE Foundations — Mandate V](../framework/uce-foundations.md#mandate-v--sustained-ethical-function) · [Sojournism: Full Documentation](../framework/sojournism-full.md)*
+*→ [Essays]({% link essays/essays-index.md %}) · [UCE Foundations — Mandate V]({% link framework/uce-foundations.md %}#mandate-v--sustained-ethical-function) · [Sojournism: Full Documentation]({% link framework/sojournism-full.md %})*

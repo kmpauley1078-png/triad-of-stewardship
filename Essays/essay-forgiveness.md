@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Forgiveness and Its Limits"
+permalink: /essays/essay-forgiveness/
+---
 # Forgiveness and Its Limits
 
 *Triad of Stewardship | Essays*
@@ -26,4 +31,4 @@ Ultimately, the wisest approach to forgiveness is one that is rooted not only in
 
 ---
 
-*→ [Essays](essays-index.md) · [Sojournism: Full Documentation](../framework/sojournism-full.md)*
+*→ [Essays]({% link essays/essays-index.md %}) · [Sojournism: Full Documentation]({% link framework/sojournism-full.md %})*

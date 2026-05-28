@@ -1,5 +1,6 @@
 ---
 layout: home
+title: "The Triad of Stewardship"
 ---
 # The Triad of Stewardship
 
@@ -44,16 +45,16 @@ The framework speaks directly to several problems the alignment field has identi
 ## Where to Go Next
 
 **If you want to understand the framework's claims and limits before going further:**
-→ [Epistemic Status and Verification](epistemic-status.md)
+→ [Epistemic Status and Verification]({% link epistemic-status.md %})
 
 **If you want the framework itself — what the six mandates are, how the principles were derived, how the Priority Hierarchy works:**
-→ [UCE Foundations](framework/uce-overview.md)
+→ [UCE Foundations]({% link framework/uce-overview.md %})
 
 **If you want the technical apparatus — the full pairwise compound map, tension resolutions, void analysis, and formalization:**
-→ [The Third Tier: Resolution Power](technical/tier3-compound-map.md)
+→ [The Third Tier: Resolution Power]({% link technical/tier3-compound-map.md %})
 
 **If you want the direct AI alignment application:**
-→ [The Coherence Imperative](applications/coherence-imperative.md)
+→ [The Coherence Imperative]({% link applications/coherence-imperative.md %})
 
 ---
 

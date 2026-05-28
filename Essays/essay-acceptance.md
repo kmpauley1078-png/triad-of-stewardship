@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Acceptance"
+permalink: /essays/essay-acceptance/
+---
 # Acceptance
 
 *Triad of Stewardship | Essays*
@@ -8,4 +13,4 @@ All circumstances are temporary. Every person — including you — is a mix of 
 
 ---
 
-*→ [Essays](essays-index.md) · [Sojournism: Full Documentation](../framework/sojournism-full.md)*
+*→ [Essays]({% link essays/essays-index.md %}) · [Sojournism: Full Documentation]({% link framework/sojournism-full.md %})*

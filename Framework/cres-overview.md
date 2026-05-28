@@ -1,3 +1,9 @@
+---
+layout: page
+title: "CRES Overview"
+permalink: /framework/cres-overview/
+---
+
 # CRES: The Institutional Diagnostic
 ## What Happens When Leaders Do or Don't Apply the UCE
 
@@ -23,7 +29,7 @@ CRES is the answer. It is a diagnostic framework derived from twenty-three histo
 
 The cascade runs in one direction: Character failure erodes Rights. Rights degradation hollows the Economy. A hollowed Economy cannot sustain the Security infrastructure required to maintain the whole.
 
-The cascade of recovery runs in the reverse sequence — and this asymmetry matters. You cannot begin reconstruction where collapse ended. Security must be stabilized first, because without it no Rights can be exercised and no Economy can function. Then Rights must be established, because without them the Economy has no foundation of trust. Then Economy, because without material sustainability Character cannot be cultivated across generations. And throughout all of it, Character — because without it, every other recovery effort eventually reverts.
+The cascade of recovery runs in the reverse sequence — and this asymmetry matters. You cannot begin reconstruction where collapse ended. Security must be stabilized first, because without it no Rights can be exercised and no Economy can function. Then Rights must be established, because without them the Economy has no foundation of trust. Then Economy, because without material sustainability Character cannot be cultivated across generations. and throughout all of it, Character — because without it, every other recovery effort eventually reverts.
 
 The sequencing is not optional. Communities that attempt to govern before they have stabilized Security are consumed. Communities that stabilize Security without establishing Rights produce order that looks like governance but functions like occupation.
 
@@ -69,7 +75,7 @@ This connection resolves a question that purely abstract ethical frameworks leav
 
 ## A Note for the AI Alignment Reader
 
-CRES has direct relevance to how AI advisory systems should be calibrated. An AI embedded in or advising an institution needs to be able to read the institutional CRES state — not merely its stated policies and formal structures, but the gap between those structures and actual practice. The Character and Rights early warning signals described above are exactly the signals a well-calibrated AI advisor should be tracking and surfacing before the cascade reaches Economy or Security.
+CRES has direct relevance to how AI advisory systems should be calibrated. An AI embedded in or advising an institution needs to be able to read the institutional CRES state — not merely its stated policies and formal structures, but the gap between those structures and actual practice. The Character and Rights early warning signals described above are exactly the signals a well-calculated AI advisor should be tracking and surfacing before the cascade reaches Economy or Security.
 
 An AI that can only diagnose a system in full collapse has failed the intervention window that mattered. The CRES framework provides the leading-indicator architecture that makes earlier, more accurate diagnosis possible.
 
@@ -78,13 +84,13 @@ An AI that can only diagnose a system in full collapse has failed the interventi
 ## Where to Go Next
 
 **The full CRES framework — twenty-three historical case studies, the recovery sequence in detail, the organizational and household applications, and the war predictors appendix:**
-→ [CRES: Full Documentation](cres-full.md)
+→ [CRES: Full Documentation]({% link framework/cres-full.md %})
 
 **The Grey Zone — what CRES looks like when the cascade reaches its terminal state:**
 → [Grey Zone Ethics](../applications/grey-zone.md)
 
 **The AI alignment application that uses CRES's leading-indicator logic:**
-→ [The Coherence Imperative](../applications/coherence-imperative.md)
+→ [The Coherence Imperative](../applications/coherence-imperative/)
 
 **How the UCE, Sojournism, and CRES form one integrated system:**
-→ [The Triad: How the Three Layers Connect](how-layers-connect.md)
+→ [The Triad: How the Three Layers Connect]({% link framework/how-layers-connect.md %})

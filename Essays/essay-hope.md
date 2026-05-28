@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Hope as a Survival Skill"
+permalink: /essays/essay-hope/
+---
 # Hope as a Survival Skill
 
 *Triad of Stewardship | Essays*
@@ -24,4 +29,4 @@ Bad things happen. And the world is still worth loving — not because the pain 
 
 ---
 
-*→ [Essays](essays-index.md) · [Sojournism: Full Documentation](../framework/sojournism-full.md)*
+*→ [Essays]({% link essays/essays-index.md %}) · [Sojournism: Full Documentation]({% link framework/sojournism-full.md %})*

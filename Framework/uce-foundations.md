@@ -1,8 +1,14 @@
+---
+layout: page
+title: "The Universal Core of Ethics: Foundations"
+permalink: /framework/uce-foundations/
+---
+
 # The Universal Core of Ethics: Foundations
 
 *Triad of Stewardship | Framework Documentation*
 
-*For a shorter introduction to the UCE, see [UCE Overview](uce-overview.md). For the full technical apparatus — pairwise compound map, tension resolutions, and void analysis — see [The Third Tier](../technical/tier3-compound-map.md).*
+*For a shorter introduction to the UCE, see [UCE Overview]({% link framework/uce-overview.md %}). For the full technical apparatus — pairwise compound map, tension resolutions, and void analysis — see [The Third Tier](../technical/tier3-compound-map.md).*
 
 ---
 
@@ -88,7 +94,7 @@ The UCE was not always organized around six mandates. Earlier iterations of the 
 
 Its addition was not an imposition on the framework. It was a discovery within it. Every tradition examined, when stripped of its cultural and theological packaging, contains a structurally identical claim: that legitimate authority has limits, and that compliance with tyranny in the name of order is itself a moral failure.
 
-Just Subversion completes the framework by making it self-defending. Without it, the other five mandates could be weaponized by a sufficiently cynical authority demanding submission in the name of stability or order. A framework that can be turned against itself is not a constitution. It is a tool waiting to be captured.
+Just Subversion completes the framework by making it self-defending. Without it, the other five mandates could be weaponized by any sufficiently cynical authority demanding submission in the name of stability or order. A framework that can be turned against itself is not a constitution. It is a tool waiting to be captured.
 
 ---
 
@@ -344,13 +350,13 @@ This template prevents the pattern most likely to produce authoritarian abuse: t
 → [The Third Tier: Resolution Power](../technical/tier3-compound-map.md)
 
 **How one person lives these mandates:**
-→ [Sojournism: Full Documentation](sojournism-full.md)
+→ [Sojournism: Full Documentation]({% link framework/sojournism-full.md %})
 
 **What happens at institutional scale when leaders apply or fail to apply these mandates:**
-→ [CRES: Full Documentation](cres-full.md)
+→ [CRES: Full Documentation]({% link framework/cres-full.md %})
 
 **The AI alignment application:**
-→ [The Coherence Imperative](../applications/coherence-imperative.md)
+→ [The Coherence Imperative](../applications/coherence-imperative/)
 
 **Back to the overview:**
-→ [UCE Overview](uce-overview.md)
+→ [UCE Overview]({% link framework/uce-overview.md %})

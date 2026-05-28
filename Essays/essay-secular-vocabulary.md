@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Redefining Morality: A Secular Vocabulary for Ethics"
+permalink: /essays/essay-secular-vocabulary/
+---
 # Redefining Morality: A Secular Vocabulary for Ethics
 
 *Triad of Stewardship | Essays*
@@ -44,4 +49,4 @@ We can craft a language of ethics that is inclusive, grounded, and deeply human.
 
 ---
 
-*→ [Essays](essays-index.md) · [Sojournism: Full Documentation](../framework/sojournism-full.md)*
+*→ [Essays]({% link essays/essays-index.md %}) · [Sojournism: Full Documentation]({% link framework/sojournism-full.md %})*

@@ -1,3 +1,9 @@
+---
+layout: page
+title: "UCE Overview"
+permalink: /framework/uce-overview/
+---
+
 # The Universal Core of Ethics
 ## What Humanity Keeps Agreeing On
 
@@ -79,13 +85,13 @@ It also knows its own edges. The void zones — all clustering around a single u
 ## Where to Go Next
 
 **The full methodology, tradition mappings, and principle definitions:**
-→ [UCE Foundations: Full Documentation](uce-foundations.md)
+→ [UCE Foundations: Full Documentation]({% link framework/uce-foundations.md %})
 
 **The pairwise compound map and technical apparatus:**
 → [The Third Tier: Resolution Power](../technical/tier3-compound-map.md)
 
 **The direct AI alignment application:**
-→ [The Coherence Imperative](../applications/coherence-imperative.md)
+→ [The Coherence Imperative](../applications/coherence-imperative/)
 
 **The framework's epistemic status and what would falsify its claims:**
-→ [Epistemic Status and Verification](../epistemic-status.md)
+→ [Epistemic Status and Verification]({% link epistemic-status.md %})

@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Benevolence"
+permalink: /essays/essay-benevolence/
+---
 # Benevolence
 
 *Triad of Stewardship | Essays*
@@ -14,4 +19,4 @@ No wealth is required. The broken can offer a word.
 
 ---
 
-*→ [Essays](essays-index.md) · [Sojournism: Full Documentation](../framework/sojournism-full.md)*
+*→ [Essays]({% link essays/essays-index.md %}) · [Sojournism: Full Documentation]({% link framework/sojournism-full.md %})*

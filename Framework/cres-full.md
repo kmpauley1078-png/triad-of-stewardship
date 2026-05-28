@@ -1,8 +1,14 @@
+---
+layout: page
+title: "CRES: The Institutional Diagnostic"
+permalink: /framework/cres-full/
+---
+
 # CRES: The Institutional Diagnostic
 
 *Triad of Stewardship | Framework Documentation*
 
-*For a shorter introduction to CRES, see [CRES Overview](cres-overview.md). For the conditions CRES reaches its terminal state, see [Grey Zone Ethics](../applications/grey-zone.md).*
+*For a shorter introduction to CRES, see [CRES Overview]({% link framework/cres-overview.md %}). For the conditions CRES reaches its terminal state, see [Grey Zone Ethics](../applications/grey-zone.md).*
 
 ---
 
@@ -140,7 +146,7 @@ The diagnostic implication of the cascade is direct: to assess the future trajec
 
 The UCE describes what ethical conduct requires. CRES describes the consequences when ethical conduct is present or absent in leadership. The UCE is the operating system. CRES is the diagnostic tool that reads whether the operating system is running correctly.
 
-The direct bridge is [UCE Mandate IV — Systemic Stewardship](uce-foundations.md#mandate-iv--systemic-stewardship). That Mandate establishes the duty to maintain the health of the systems on which agents depend. The four CRES pillars are the operational expression of that duty at the institutional scale. They are not policy options or governance preferences. They are the specific forms that Systemic Stewardship takes in any human community of sufficient complexity.
+The direct bridge is [UCE Mandate IV — Systemic Stewardship]({% link framework/uce-foundations.md %}#mandate-iv--systemic-stewardship). That Mandate establishes the duty to maintain the health of the systems on which agents depend. The four CRES pillars are the operational expression of that duty at the institutional scale. They are not policy options or governance preferences. They are the specific forms that Systemic Stewardship takes in any human community of sufficient complexity.
 
 This resolves a question that purely abstract ethical frameworks leave unanswered: why does it matter, practically, whether a leader has good Character? The answer CRES provides is not sentimental. It is structural. Poor Character in leadership produces specific, predictable, measurable institutional failures — in Rights, in Economy, in Security — that cause specific, measurable harm to real people. The ethical obligation and the practical consequence are not separate considerations. They are the same consideration viewed from different angles.
 
@@ -239,7 +245,7 @@ In all three sequences, the endpoint is the same: a system unable to maintain th
 ## Where to Go Next
 
 **The UCE mandates that CRES expresses at institutional scale:**
-→ [UCE Foundations](uce-foundations.md)
+→ [UCE Foundations]({% link framework/uce-foundations.md %})
 
 **What CRES looks like at its terminal state:**
 → [Grey Zone Ethics](../applications/grey-zone.md)
@@ -248,7 +254,7 @@ In all three sequences, the endpoint is the same: a system unable to maintain th
 → [Organizational Leadership: Applied Ethics](../applications/sector-ethics.md)
 
 **The AI alignment application of CRES's leading-indicator logic:**
-→ [The Coherence Imperative](../applications/coherence-imperative.md)
+→ [The Coherence Imperative](../applications/coherence-imperative/)
 
 **Back to the overview:**
-→ [CRES Overview](cres-overview.md)
+→ [CRES Overview]({% link framework/cres-overview.md %})

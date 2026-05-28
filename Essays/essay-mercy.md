@@ -1,3 +1,8 @@
+---
+layout: page
+title: "How to Become Merciful: The Three Pillars of True Freedom"
+permalink: /essays/essay-mercy/
+---
 # How to Become Merciful: The Three Pillars of True Freedom
 
 *Triad of Stewardship | Essays*
@@ -34,4 +39,4 @@ Once you've claimed your personal freedom by relinquishing the grudges that bind
 
 ---
 
-*→ [Essays](essays-index.md) · [Sojournism: Full Documentation](../framework/sojournism-full.md) · [UCE Foundations — Mandate III](../framework/uce-foundations.md#mandate-iii--integrity-and-reciprocity)*
+*→ [Essays]({% link essays/essays-index.md %}) · [Sojournism: Full Documentation]({% link framework/sojournism-full.md %}) · [UCE Foundations — Mandate III]({% link framework/uce-foundations.md %}#mandate-iii--integrity-and-reciprocity)*

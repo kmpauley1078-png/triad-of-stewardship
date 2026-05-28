@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Autonomy"
+permalink: /essays/essay-autonomy/
+---
 # Autonomy
 
 *Triad of Stewardship | Essays*
@@ -8,4 +13,4 @@ Autonomy, then, is not just freedom *from* obligation. It is freedom *for*: for 
 
 ---
 
-*→ [Essays](essays-index.md) · [Sojournism: Full Documentation](../framework/sojournism-full.md)*
+*→ [Essays]({% link essays/essays-index.md %}) · [Sojournism: Full Documentation]({% link framework/sojournism-full.md %})*

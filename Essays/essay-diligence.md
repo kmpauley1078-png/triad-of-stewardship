@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Diligence and the Inner Flame"
+permalink: /essays/essay-diligence/
+---
 # Diligence and the Inner Flame
 
 *Triad of Stewardship | Essays*
@@ -18,4 +23,4 @@ The person who waits for conditions to be perfect before beginning will wait the
 
 ---
 
-*→ [Essays](essays-index.md) · [Sojournism: Full Documentation](../framework/sojournism-full.md)*
+*→ [Essays]({% link essays/essays-index.md %}) · [Sojournism: Full Documentation]({% link framework/sojournism-full.md %})*

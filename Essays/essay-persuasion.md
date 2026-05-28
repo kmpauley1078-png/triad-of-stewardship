@@ -1,3 +1,8 @@
+---
+layout: page
+title: "A Guide to Respectful Persuasion"
+permalink: /essays/essay-persuasion/
+---
 # A Guide to Respectful Persuasion
 
 *Triad of Stewardship | Essays*
@@ -26,4 +31,4 @@ Live so clearly that it becomes a question.
 
 ---
 
-*→ [Essays](essays-index.md) · [Sojournism: Full Documentation](../framework/sojournism-full.md)*
+*→ [Essays]({% link essays/essays-index.md %}) · [Sojournism: Full Documentation]({% link framework/sojournism-full.md %})*

@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Grey Zone Ethics"
+permalink: /applications/grey-zone/
+---
 # Grey Zone Ethics
 ## The UCE Under Conditions of Collapse
 
@@ -72,8 +77,6 @@ These were correct responses to the conditions that produced them. In stable con
 
 This is not a moral failure. It is a physiological and psychological reality. The transition out of Grey Zone thinking is not automatic, not natural, and not accomplished by the simple decision to stop. It requires deliberate, structured intervention.
 
----
-
 ## The Decompression Chamber
 
 The Decompression Chamber is that intervention — the intentional process of retiring survival habits so that community ethics can take their place. It is difficult, incomplete in many cases, and requires explicit practice. It is not the natural outcome of having survived. It is the prerequisite for everything that comes after.
@@ -119,16 +122,16 @@ The Decompression Chamber logic applies to AI systems transitioning between oper
 ## Where to Go Next
 
 **The full individual-scale framework — the complete Grey Zone ethics treatment with hard cases, documented examples, and the failure modes of collapse leadership:**
-→ [Grey Zone Ethics: Full Documentation](grey-zone-full.md)
+→ [Grey Zone Ethics: Full Documentation]({% link applications/grey-zone-full.md %})
 
 **The governance-scale framework — Order in the Grey Zone and the full reconstruction sequence:**
-→ [Reconstruction Ethics: Full Documentation](reconstruction-full.md)
+→ [Reconstruction Ethics: Full Documentation]({% link applications/reconstruction-full.md %})
 
 **The CRES cascade that produces Grey Zone conditions:**
-→ [CRES Overview](../framework/cres-overview.md)
+→ [CRES Overview]({% link framework/cres-overview.md %})
 
 **Leadership in stable conditions — a separate and distinct treatment:**
-→ [Stable Leadership](stable-leadership.md)
+→ [Stable Leadership]({% link applications/stable-leadership.md %})
 
 **The armed conflict application — ethics when the Grey Zone becomes a battlefield:**
-→ [The Mandates of Conflict](mandates-of-conflict.md)
+→ [The Mandates of Conflict]({% link applications/mandates-of-conflict.md %})

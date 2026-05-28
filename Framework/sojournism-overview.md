@@ -1,9 +1,15 @@
+---
+layout: page
+title: "Sojournism Overview"
+permalink: /framework/sojournism-overview/
+---
+
 # Sojournism
 ## How One Person Lives the UCE
 
 The UCE identifies what humanity has consistently agreed on across five thousand years of ethical thought. It does not tell you how to build a life around it. That is Sojournism's job.
 
-Sojournism is a secular, pragmatic personal philosophy. It begins with a single recognition: we are guests in this world, not its owners. We arrive, we act, we depart. The central question of a life is whether we leave the shared space better than we found it. This framing is not sentiment — it is structural. A guest who understands that their stay is temporary has no grounds for extraction, hoarding, or treating shared resources as personal property. A guest who takes seriously their obligation to the household they are passing through will maintain what they use, contribute what they can, and refuse to leave ruin behind.
+Sojournism is a secular, pragmatic personal philosophy. It begins with a single recognition: we are guests in this world, not its owners. We arrive, we act, we depart. The central question of a life is whether we leave the shared space better than we found it. This framing is not sentiment — it is structural. A guest who understands that their stay is temporary has no grounds for extraction, hoarding, or treating shared resources as personal property. A guest who takes seriously their obligation to the household they are passing through will maintain what you use, contribute what they can, and refuse to leave ruin behind.
 
 The Sojourner is that guest — not because they are required to be, but because they understand clearly what they are.
 
@@ -78,10 +84,10 @@ An alignment architecture that cannot model the phenomenology of sustained ethic
 ## Where to Go Next
 
 **The full Sojournism philosophy — the Ethical Tree, the Pillars in depth, the relationship to UCE Mandate V, and the practice under institutional failure:**
-→ [Sojournism: Full Treatment](sojournism-full.md)
+→ [Sojournism: Full Treatment]({% link framework/sojournism-full.md %})
 
 **The institutional scale — what happens when Character is present or absent in leadership:**
-→ [CRES: The Institutional Diagnostic](cres-overview.md)
+→ [CRES: The Institutional Diagnostic]({% link framework/cres-overview.md %})
 
 **The AI alignment formalization that uses Sojournism's account of human flourishing:**
-→ [The Coherence Imperative](../applications/coherence-imperative.md)
+→ [The Coherence Imperative](../applications/coherence-imperative/)

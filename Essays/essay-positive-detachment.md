@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Positive Detachment"
+permalink: /essays/essay-positive-detachment/
+---
 # Positive Detachment
 
 *Triad of Stewardship | Essays*
@@ -16,4 +21,4 @@ Your legacy isn't your fame; it's the quiet lift you gave to others. Peace isn't
 
 ---
 
-*→ [Essays](essays-index.md) · [Sojournism: Full Documentation](../framework/sojournism-full.md)*
+*→ [Essays]({% link essays/essays-index.md %}) · [Sojournism: Full Documentation]({% link framework/sojournism-full.md %})*

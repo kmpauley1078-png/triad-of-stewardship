@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Financial Freedom Is a Feeling, Not a Number"
+permalink: /essays/essay-financial-freedom/
+---
 # Financial Freedom Is a Feeling, Not a Number
 
 *Triad of Stewardship | Essays*
@@ -16,4 +21,4 @@ Live lightly. Not because it's a trend, but because it gives your life back to y
 
 ---
 
-*→ [Essays](essays-index.md) · [Sojournism: Full Documentation](../framework/sojournism-full.md)*
+*→ [Essays]({% link essays/essays-index.md %}) · [Sojournism: Full Documentation]({% link framework/sojournism-full.md %})*

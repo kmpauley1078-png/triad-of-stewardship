@@ -1,10 +1,15 @@
+---
+layout: page
+title: "Criminal Justice: A UCE Sector Analysis"
+permalink: /applications/criminal-justice/
+---
 # Criminal Justice: A UCE Sector Analysis
 
 *Triad of Stewardship | Applications Documentation*
 
 *UCE primary load: Mandates I, II, III, VI. CRES pillar: all four, in sequence.*
 
-*This is a deep application document. For the broader law enforcement sector treatment, see [Organizational Leadership: Applied Ethics](sector-ethics.md). For the UCE mandate definitions referenced throughout, see [UCE Foundations](../framework/uce-foundations.md).*
+*This is a deep application document. For the broader law enforcement sector treatment, see [Organizational Leadership: Applied Ethics]({% link framework/sector-ethics.md %}). For the UCE mandate definitions referenced throughout, see [UCE Foundations]({% link framework/uce-foundations.md %}).*
 
 ---
 
@@ -195,16 +200,16 @@ A society that cannot meet this standard is not a civilization administering jus
 ## Where to Go Next
 
 **The UCE mandates underlying all criminal justice obligations:**
-→ [UCE Foundations](../framework/uce-foundations.md)
+→ [UCE Foundations]({% link framework/uce-foundations.md %})
 
 **The CRES cascade from leadership character to institutional integrity:**
-→ [CRES: Full Documentation](../framework/cres-full.md)
+→ [CRES: Full Documentation]({% link framework/cres-full.md %})
 
 **The broader law enforcement sector analysis:**
-→ [Organizational Leadership: Applied Ethics](sector-ethics.md)
+→ [Organizational Leadership: Applied Ethics]({% link framework/sector-ethics.md %})
 
 **The ethics of lethal force that informs the capital punishment analysis:**
-→ [The Mandates of Conflict](mandates-of-conflict.md)
+→ [The Mandates of Conflict]({% link applications/mandates-of-conflict.md %})
 
 **Just Subversion as applied to predatory institutions:**
-→ [UCE Foundations — Mandate VI](../framework/uce-foundations.md#mandate-vi--just-subversion)
+→ [UCE Foundations — Mandate VI]({% link framework/uce-foundations.md %}#mandate-vi--just-subversion)
