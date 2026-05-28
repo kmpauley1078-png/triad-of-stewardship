@@ -4,23 +4,16 @@ description: "A unified ethical framework derived from cross-cultural research a
 author: "Kevin Pauley"
 
 # URL settings
-# FIX: Adjusted to match your real GitHub account name
 url: "https://kmpauley1078-png.github.io"
 baseurl: "/triad-of-stewardship"
 
+# Theme settings
 theme: minima
 
 minima:
   skin: classic
 
-# Cleaned up navigation header links using verified relative web paths
-header_pages:
-  - epistemic-status.md
-  - framework/uce-foundations.md
-  - applications/coherence-imperative.md
-  - technical/tier3-overview.md
-  - essays/essays-index.md
-
+# Markdown settings
 markdown: kramdown
 highlighter: rouge
 
