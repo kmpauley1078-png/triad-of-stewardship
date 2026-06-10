@@ -2,7 +2,7 @@
 
 A unified ethical framework derived from cross-cultural empirical research across twenty-three traditions spanning five millennia.
 
-**Live site:** [https://kmpauley.github.io/triad-of-stewardship](https://kmpauley.github.io/triad-of-stewardship)
+**Live site:** [https://kmpauley1078-png.github.io/triad-of-stewardship](https://kmpauley.github.io/triad-of-stewardship)
 
 ---
 
